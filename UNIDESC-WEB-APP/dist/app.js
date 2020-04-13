@@ -1,0 +1,1 @@
+!function(){"use strict";angular.module("unidescApp",[])}(),function(){"use strict";function produtoController($scope){this.produto={nome:"caneca",preco:90}}angular.module("unidescApp").controller("produtoController",produtoController),produtoController.$inject="$scope"}();
